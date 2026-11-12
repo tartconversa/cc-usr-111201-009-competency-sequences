@@ -1,0 +1,15 @@
+{
+  "max_gap": 1,
+  "max_span_minutes": 30,
+  "min_students": 2,
+  "train_joined_before": "2026-10-05T00:00:00+08:00",
+  "max_pattern_length": 4,
+  "candidate_budget": 100000,
+  "exclude_labels": [
+    "UNKNOWN"
+  ],
+  "outcome": "passed",
+  "multiple_comparison": "BH",
+  "test": "two_sided_fisher_exact",
+  "seed": 1120109
+}

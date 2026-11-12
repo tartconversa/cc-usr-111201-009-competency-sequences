@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/activities.jsonl",
+    "sha256": "0d06cd13fc3e90561ba75a78f445364575a5b946895b5800132a663c7bd10da0",
+    "size_bytes": 7480
+  },
+  {
+    "path": "fixtures/mining.json",
+    "sha256": "951d26bcead49a785f3d212e9641382669e08bde4aff8d32178f6751b50eb684",
+    "size_bytes": 327
+  },
+  {
+    "path": "fixtures/outcomes.csv",
+    "sha256": "ca76278e60afd389ea19f7fb31a9db3b1512d3a4e74af02842b68debd3514b81",
+    "size_bytes": 97
+  }
+]
